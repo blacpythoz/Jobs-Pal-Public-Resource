@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Jobs Nepal",
+      "ext_name":"jobsnepal.ext",
       "version": 1,
       "url": "www.jobspal.com",
       "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/jobsnepal",
@@ -12,6 +13,7 @@
       "id": 2,
       "name": "Kantipur Job",
       "version": 1,
+      "ext_name":"kantipurjob.ext",
       "url": "www.jobspal.com",
       "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/kantipurjob",
       "description":""
@@ -20,6 +22,7 @@
       "id": 3,
       "name": "Mero Job",
       "version": 1,
+      "ext_name":"merojob.ext",
       "url": "www.jobspal.com",
       "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/merojob",
       "description":""
@@ -28,6 +31,7 @@
       "id": 4,
       "name": "Mero Rojgari",
       "version": 1,
+      "ext_name":"merorojgari.ext",
       "url": "www.jobspal.com",
       "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/merorojgari",
       "description":""
@@ -36,6 +40,7 @@
       "id": 5,
       "name": "Ramro Job",
       "version": 1,
+      "ext_name":"ramrojob.ext",
       "url": "www.jobspal.com",
       "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/ramrojob",
       "description":""
@@ -44,6 +49,8 @@
       "id": 6,
       "name": "Sabaiko Job",
       "version": 1,
+      "url": "www.jobspal.com",
+      "ext_name":"jobsnepal.ext",
       "url": "www.jobspal.com",
       "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/sabaikojob",
       "description":""
