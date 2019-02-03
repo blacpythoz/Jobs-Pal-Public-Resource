@@ -1,0 +1,46 @@
+{
+  "extension": [
+    {
+      "id": 1,
+      "name": "Jobs Nepal",
+      "version": 1,
+      "url": "www.jobspal.com",
+      "download_url": ""
+    },
+    {
+      "id": 2,
+      "name": "Kantipur Job",
+      "version": 1,
+      "url": "www.jobspal.com",
+      "download_url": ""
+    },
+    {
+      "id": 3,
+      "name": "Mero Job",
+      "version": 1,
+      "url": "www.jobspal.com",
+      "download_url": ""
+    },
+    {
+      "id": 4,
+      "name": "Mero Rojgari",
+      "version": 1,
+      "url": "www.jobspal.com",
+      "download_url": ""
+    },
+     {
+      "id": 5,
+      "name": "Ramro Job",
+      "version": 1,
+      "url": "www.jobspal.com",
+      "download_url": ""
+    },
+     {
+      "id": 6,
+      "name": "Sabaiko Job",
+      "version": 1,
+      "url": "www.jobspal.com",
+      "download_url": ""
+    }
+  ]
+}
