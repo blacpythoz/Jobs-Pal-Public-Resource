@@ -5,42 +5,48 @@
       "name": "Jobs Nepal",
       "version": 1,
       "url": "www.jobspal.com",
-      "download_url": ""
+      "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/jobsnepal",
+      "description":""
     },
     {
       "id": 2,
       "name": "Kantipur Job",
       "version": 1,
       "url": "www.jobspal.com",
-      "download_url": ""
+      "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/jobsnepal",
+      "description":""
     },
     {
       "id": 3,
       "name": "Mero Job",
       "version": 1,
       "url": "www.jobspal.com",
-      "download_url": ""
+      "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/merojob",
+      "description":""
     },
     {
       "id": 4,
       "name": "Mero Rojgari",
       "version": 1,
       "url": "www.jobspal.com",
-      "download_url": ""
+      "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/merorojgari",
+      "description":""
     },
      {
       "id": 5,
       "name": "Ramro Job",
       "version": 1,
       "url": "www.jobspal.com",
-      "download_url": ""
+      "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/ramrojob",
+      "description":""
     },
      {
       "id": 6,
       "name": "Sabaiko Job",
       "version": 1,
       "url": "www.jobspal.com",
-      "download_url": ""
+      "download_url": "https://github.com/blacpythoz/Jobs-Pal-Public-Resource/raw/master/extension/sabaikojob",
+      "description":""
     }
   ]
 }
